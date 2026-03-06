@@ -27,6 +27,7 @@ dependencies = [
     "tqdm",
     "xgboost",
     "umap-learn",
+    "ipykernel>=6.29.5",
 ]
 
 [dependency-groups]
