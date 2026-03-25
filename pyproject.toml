@@ -29,6 +29,7 @@ dependencies = [
     "umap-learn",
     "ipykernel>=6.29.5",
     "joblib>=1.4.2",
+    "usearch>=2.23.0",
 ]
 
 [dependency-groups]
